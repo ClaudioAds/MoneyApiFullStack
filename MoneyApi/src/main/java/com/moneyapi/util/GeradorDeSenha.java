@@ -1,4 +1,4 @@
-package com.moneyapi;
+package com.moneyapi.util;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
